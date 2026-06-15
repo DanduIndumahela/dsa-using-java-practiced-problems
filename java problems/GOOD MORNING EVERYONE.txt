@@ -1,0 +1,22 @@
+GOOD MORNING EVERYONE
+--MY NAME IS INDU MAHELA
+--AND IAM HONORED TO PRESNT OUR PROJECT ON "using machine for the f=detection and prediction" and our team disease detectives ,consist of indu ,faseeh,   narasimha and kiran .
+-------------CONCEPTS------------------------
+INTRODUCTION TO THE TOPIC :
+Chronic diseases such as heart disease, diabetes, and high blood pressure are among the leading causes of death worldwide. One of the biggest challenges in healthcare is the late diagnosis of these conditions, which limits effective treatment. Traditional diagnostic methods often fail to identify high-risk cases due to imbalanced medical data. 
+----------------------------------------------------
+Significance of Chronic Disease Prediction:
+Early detection is crucial because timely medical intervention can save lives. This is where Machine Learning (ML) comes into play. ML algorithms analyze large volumes of patient data, recognize hidden patterns, and predict disease risks with higher accuracy than traditional methods. By leveraging ML, we can enhance diagnostic precision, reduce missed cases, and improve healthcare outcomes.
+---------------------------------------------------
+This study uses Machine Learning (ML) to improve early detection of chronic diseases, especially HEART DISEASES.
+Advanced ML models help solve the problem of imbalanced medical data, ensuring better predictions.
+The ensemble model achieved 80.75% accuracy, improving reliability and reducing missed heart attack cases.
+SHAP analysis explains key risk factors, making ML predictions more transparent for better healthcare decisions.
+
+--------------------------some traditonal models like:
+lg=statistical model used for binary classification (if disease presetn then it gives yes no no)
+lr=struggle with laks of imabalanced data
+--------------------decision tree classifier is a tree based model which make decisions based on if-then rule .
+--------------------------------------------------k nearest neightbour classifier -------similaritu of past cases--slow for large data sets
+------------------random forest ------------it ensembles of decision tree to improve accuracy
+
