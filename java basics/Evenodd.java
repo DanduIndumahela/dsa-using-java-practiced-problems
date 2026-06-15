@@ -1,16 +1,15 @@
-package basics;
 import java.util.*;
-public class Evenodd {
+public class Evenodd{
     public static void main(String[] args) {
         System.out.println("enter a number");
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        if(n%2==0){
-            System.out.println("the number is even");
+        int num=sc.nextInt();
+        if(num%2==0){
+            System.out.println("even");
         }
         else{
-            System.out.println("the numebr is odd");
+            System.out.println("odd");
         }
+        
     }
-    
 }
